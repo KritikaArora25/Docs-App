@@ -1,5 +1,3 @@
-# Docs-App
-
 # Docs App
 
 **Docs App** is a sleek React project that displays draggable card components with file-like previews. It uses **Tailwind CSS** for styling and **Motion** (from `motion/react`) for smooth drag-and-drop interactions.
