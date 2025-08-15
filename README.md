@@ -18,17 +18,17 @@
 
 ##  Project Structure
 
-Docs-App/
-├── public/
-│ └── index.html
-├── src/
-│ ├── App.jsx
-│ ├── Background.jsx
-│ ├── Foreground.jsx
-│ ├── Card.jsx
-│ └── index.css
-├── package.json
-└── README.md
+Docs-App/    <br>
+├── public/   <br>
+│ └── index.html <br>
+├── src/<br>
+│ ├── App.jsx<br>
+│ ├── Background.jsx<br>
+│ ├── Foreground.jsx<br>
+│ ├── Card.jsx<br>
+│ └── index.css<br>
+├── package.json<br>
+└── README.md<br>
 
 
 - `Card.jsx`: Renders each draggable card with dynamic styles and conditional content.
