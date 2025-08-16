@@ -22,6 +22,24 @@ const Foreground = () => {
       filesize: ".9mb" , close: true, 
       tag: {isOpen: true, Tagtitle: "Upload", tagColor : "green"},
     },
+
+    {
+      desc : "Lorem ipsum dolor sit, amet consectetur adipisicing.", 
+      filesize: ".9mb" , close: true, 
+      tag: {isOpen: true, Tagtitle: "Upload", tagColor : "green"},
+    },
+
+    {
+      desc : "Lorem ipsum dolor sit, amet consectetur adipisicing.", 
+      filesize: ".9mb" , close: true, 
+      tag: {isOpen: true, Tagtitle: "Upload", tagColor : "green"},
+    },
+
+    {
+      desc : "Lorem ipsum dolor sit, amet consectetur adipisicing.", 
+      filesize: ".9mb" , close: true, 
+      tag: {isOpen: true, Tagtitle: "Upload", tagColor : "green"},
+    },
   ];
   useState()
   return (
